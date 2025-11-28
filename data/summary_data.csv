@@ -1,0 +1,6 @@
+Node,Location,Altitude_m,Total_Events,Duration_Min,Flux_CPM
+A,Pokhara,822,186,60,3.1
+B,Kathmandu,1400,228,60,3.8
+C,Chhomrong,2170,306,60,5.1
+D,Deurali,3200,444,60,7.4
+E,Annapurna Base Camp,4130,588,60,9.8
